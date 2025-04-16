@@ -1,2 +1,2 @@
-# wine_quality_ann
+# Klasifikasi Anggur Menggunakan ANN
 Tugas praktikum kecerdasan komputasional
